@@ -9,14 +9,22 @@ Add, edit, and delete flights.
 Schedule flights with departure/arrival times, destinations, and aircraft details.
 Track flight statuses (e.g., on time, delayed, canceled).
 
+![image](https://github.com/user-attachments/assets/76bcf56d-90a9-40cc-8e07-0d3022187185)
+
 **Passenger Management:**
 Create, update, and delete passenger records.
 Manage passenger bookings and cancellations.
 Generate boarding passes.
 
+![image](https://github.com/user-attachments/assets/5333ac0f-858c-444d-8966-6d6c2cc8d4f2)
+
+
 **Aircraft Management:**
 Maintain a database of aircraft types, models, and capacities.
 Track aircraft maintenance and inspections.
+
+![image](https://github.com/user-attachments/assets/8c030ad3-6b33-4227-b165-0e4d68a6f0aa)
+
 
 **Inventory Management:**
 Manage inventory of spare parts and supplies.
