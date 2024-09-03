@@ -1,7 +1,6 @@
-**Project Overview
+Project Overview
 
 This C#.NET application provides a comprehensive solution for managing airline operations. It encompasses various functionalities essential for efficient airline management.
-**
 
 **Key Features**
 
